@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drunksa1nt
-- 👀 I’m interested in new technologies such as A.I and Augmented Reality
+- 👀 I’m interested in new technologies
 - 🌱 I’m currently learning multiple Programming languages
 
 <!---
