@@ -18,7 +18,7 @@ When I'm not coding, I'm probably learning something new or brainstorming my nex
 
 ---
 
-Feel free to explore my repositories and reach out if you want to collaborate!
+Feel free to explore my repositories! :)
 
 
 <!---
