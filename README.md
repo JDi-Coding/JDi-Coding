@@ -5,11 +5,12 @@ I'm passionate about exploring **new technologies** and contributing to their de
 ---
 
 ### 🌱 What I'm working on
-I enjoy working on various **private projects**, including:
+GITHUB 2025 PLAN
 
-- 🤖 A **Discord Bot** to enhance server interaction.
-- 🎮 Developing an **indie video game** from scratch.
-- 🌐 Building a **health-focused website** to promote well-being.
+- WEB APPLICATION MVC
+- DISCORD BOT
+- MINECRAFT MOD
+
 
 ---
 
