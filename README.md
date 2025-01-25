@@ -1,4 +1,5 @@
 # 👋 Hey there, I'm **@JDi-Coding**
+I am an IT specialist for application development in training
 ## 💻 What I'm currently working on
 
 ### 📅 2025 Plan
