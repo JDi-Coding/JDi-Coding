@@ -13,14 +13,11 @@
 | **Redesign and overhaul of an old web application**          | Redesigning and updating an old website     | Php, Javascript, SQL | None                  | in progress           |    
 | **ChatGPT-Wrapper**                                          | Wrapper for ChatGPT (details pending)       | n.a.c                | n.a.c                 | Not started           |
 | **TableGeneration tool**                                     | Tool to generate tables from a Database     | Php                  | None                  | Not started           |
-
-
- - [x] Not started 
 ---
 
-### 📖 What I was working on | My Experience
+## 📖 What I was working on | My Experience
 
-#### 📅 2024 Plan
+### 📅 2024 Plan
 
 | **Title**                                                   | **Information**                             | **Language**         | **Framework**         | **Status**            |
 |-------------------------------------------------------------|---------------------------------------------|----------------------|-----------------------|-----------------------|
@@ -32,7 +29,7 @@
 
 ---
 
-#### 📅 2023 Plan
+### 📅 2023 Plan
 
 | **Title**                                                   | **Information**                             | **Language**         | **Framework**         | **Status**            |
 |-------------------------------------------------------------|---------------------------------------------|----------------------|-----------------------|-----------------------|
