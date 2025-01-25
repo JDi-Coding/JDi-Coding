@@ -7,36 +7,15 @@ I am an IT specialist for application development in training
 | **Title**                                                   | **Information**                             | **Language**         | **Framework**         | **Status**            |
 |-------------------------------------------------------------|---------------------------------------------|----------------------|-----------------------|-----------------------|
 | **Shop web-application**                                     |      (details pending)                      | PhP                  | n.d.y                 | Not started           |
-| **Further development of my Discord Bot (BarnyBot)**         | Enhancing features of a Discord Bot         | Python               | n.a.c                 | In progress           |
-| **Windows startup management app**                           | Windows app for managing startup programs   | C#, Powershell       | n.a.c                 | Not started           |
+| **Further development of my Discord Bot (BarnyBot)**         | Enhancing features of a Discord Bot         | Python               | (not decided)           | In progress           |
+| **Windows startup management app**                           | Windows app for managing startup programs   | C#, Powershell       | (not decided)          | Not started           |
 | **Minecraft Mod**                                            | Developing a Minecraft Mod                  | Java                 | Forge 1.20.1          | In progress           |
-| **GraphicSQL**                                               | SQL-based graphical tool (details pending)  | n.a.c                | n.a.c                 | Not started           |
+| **GraphicSQL**                                               | SQL-based graphical tool (details pending)  | (not decided)        |(not decided)          | Not started           |
 | **Redesign and overhaul of an old web application**          | Redesigning and updating an old website     | Php, Javascript, SQL | None                  | in progress           |    
-| **ChatGPT-Wrapper**                                          | Wrapper for ChatGPT (details pending)       | n.a.c                | n.a.c                 | Not started           |
+| **ChatGPT-Wrapper**                                          | Wrapper for ChatGPT (details pending)       | (not decided)         | (not decided)        | Not started           |
 | **TableGeneration tool**                                     | Tool to generate tables from a Database     | Php                  | None                  | Not started           |
 ---
-
-## 📖 What I was working on | My Experience
-
-### 📅 2024 Plan
-
-| **Title**                                                   | **Information**                             | **Language**         | **Framework**         | **Status**            |
-|-------------------------------------------------------------|---------------------------------------------|----------------------|-----------------------|-----------------------|
-| **Discord Bot Development**                                 | Creating and managing a Discord bot         | Python               | None                  | In prpgress           |
-| **Redesign and overhaul of an old web application**         | Redesigning and updating an old website     | Php, Javascript, SQL | None                  | In progress           |
-| **BMI Calculation Website**                                 | A website to calculate the BMI of a person  | Php, Javascript      | None                  | Completed             |
-| **API Development**                                         | Building a REST API                        | Python, SQL          | FastAPI                | Completed             |
-| **Web application with API connection**                     | Web app connecting to an API               | Php, Javascript      | None                   | Completed             |
-
----
-
-### 📅 2023 Plan
-
-| **Title**                                                   | **Information**                             | **Language**         | **Framework**         | **Status**            |
-|-------------------------------------------------------------|---------------------------------------------|----------------------|-----------------------|-----------------------|
-| **Small Web-Application with Laravel**                      | A small Laravel-based web application       | Php, Javascript      | Laravel               | Completed             |
-| **Test-Project with Win-Forms**                             | Small desktop app using Win-Forms           | C#                   | None                  | Completed             |
-
+want to know more ? -> [My Experience](history.md)
 ---
 
 ## 🏅 Honorable Mentions  
@@ -56,19 +35,8 @@ while strawberries don’t, since their seeds are on the outside. Nature's a bit
 ### Feel free to explore my repositories! :) 
 
 
-
 ---
 
-
-### Glossary of abbreviations
-
-| **Abbreviation** | **Meaning**                |
-|-------------------|---------------------------|
-| n.d.y             | not decided yet           |
-| n.a.c             | not available currently   |
-| dl.               | delayed                   |
-
----
 
 <!---
 drunksa1nt/drunksa1nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
