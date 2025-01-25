@@ -17,10 +17,3 @@ I am an IT specialist for application development in training
 ---
 want to know more ? -> [My Experience](history.md)
 ---
-
-## 🏅 Honorable Mentions  
-Here are some repositories and creators that have inspired me, helped me, or deserve recognition in my opinion: 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) – It provides a user-friendly and efficient way to work with an AI generation model, making it well-suited for beginners. 
-- [@Tutorials By Kaupenjoe](https://github.com/Tutorials-By-Kaupenjoe)  – A great help for beginners in Minecraft modding
-
----
