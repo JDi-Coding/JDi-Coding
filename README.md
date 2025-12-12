@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm **@JDi-Coding**
-I am an IT specialist for application development 
+-IT specialist for application development 
 ## 
 
 ---
