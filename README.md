@@ -3,6 +3,6 @@
 ## 
 
 ---
-want to know more ? -> [About Me](https://jdi-coding.github.io/aboutme/)
+want to know more ? -> [About Me](https://jdi-coding.netlify.app/)
 
 ---
